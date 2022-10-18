@@ -15,6 +15,7 @@ At present, the chapters are based on different algorithms, without considering 
 Similarly, -s means simple, and -d stands for difficulty.</font>
 
 - <font face="Consolas">[62.py-m](https://github.com/kt4ngw/LeeCode/blob/main/Dp/62.py) </font> 
+- <font face="Consolas">[63.py-m](https://github.com/kt4ngw/LeeCode/blob/main/Dp/64.py) </font> 
 - <font face="Consolas">[64.py-m](https://github.com/kt4ngw/LeeCode/blob/main/Dp/64.py) </font> 
 - <font face="Consolas">[120.py-s](https://github.com/kt4ngw/LeeCode/blob/main/Dp/120.py) </font>
-- <font face="Consolas">[392.py-s](https://github.com/kt4ngw/LeeCode/blob/main/Dp/392.py) </font> 
+- <font face="Consolas">[392.py-s](https://github.com/kt4ngw/LeeCode/blob/main/Dp/392.py) </font>
