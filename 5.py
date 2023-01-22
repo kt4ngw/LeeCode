@@ -4,7 +4,7 @@ class Solution:
         maxString = ""
         for i in range(len(s)):
             stringTemp = s[i]
-            # 中心扩散法
+            # 中心扩散法 应该是吧
             # 最多扩散多少呢？扩散到最前面的字符串
             left = i - 1
             # 向左向右寻找有没有和当前字符相等的字符
