@@ -1,5 +1,9 @@
 # <font face="Consolas">Leecode</font> 
 
+<font face="Consolas">Sorry, we're sorting out the repository. It's a bit of a mess. It's going to take some time.</font> 
+
+不好意思，我们正在整理仓库，仓库有些混乱。这需要些时间。
+
 ## <font face="Consolas">1 Introduce</font> 
 <font face="Consolas">This repository is a record of using python to answer questions in LeeCode.
 

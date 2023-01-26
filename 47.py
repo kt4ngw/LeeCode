@@ -8,7 +8,7 @@ class Solution:
             else:
                 for i in range(len(nums)):
                     # 从 i 之前能找到
-                    flag = 1  # 没有相同的
+                    flag = 1  # 首先没有相同的
                     piont = i
                     while (piont >= 1):
                         if (nums[i] == nums[piont - 1]):
